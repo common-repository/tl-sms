@@ -1,0 +1,63 @@
+#tlsms p{
+	margin-top:0;
+	margin-bottom:1em;
+}
+
+#tlsms p:last-child{
+	margin-bottom:0;
+}
+
+#tlsms p.tlsms_sp{
+	margin-bottom:0;
+}
+
+#tlsms-result{
+	margin-top:1em;
+	display: none;
+}
+
+p.tlsms-sent{
+	color: #37983f;
+}
+
+p.tlsms-error{
+	color:#dc3232;
+}
+
+span.tlsms-desc{
+	color: #888;
+	font-style: italic;
+}
+
+a.tlsms-apikey-link{
+	font-style: italic;
+}
+
+#tlsms pre{
+	margin:0;
+	padding: 0;
+}
+
+#tlsms input[type="text"], #tlsms textarea{
+	width:100%;
+	display:block;
+}
+
+#tlsms textarea{
+	height:100px;
+}
+
+p#tlsms-ajax-icon{
+	margin-bottom:0;
+}
+
+p#tlsms-ajax-icon{
+	display: none;
+}
+
+p#tlsms-ajax-icon img{
+	width:32px;
+	height:32px;
+	display:block;
+	margin:0 auto;
+}
